@@ -425,3 +425,47 @@ img{
   background-size: cover;
   padding: 50px 0 70px 25px;
 }
+
+
+.contact-form{
+  display: flex;
+  height: 100vh;
+  align-items: center;
+
+}
+
+.form-box{
+  width: 50%;
+  padding-left: 45px;
+  padding-right: 50px;
+
+  
+}
+
+.form{
+  background-color: #3E2C3D;
+  width: 50%;
+  padding: 111px 49px 0 50px;  
+  height: 80%;
+  border-radius: 8px;
+  margin-right: 49px;
+  
+}
+
+.form-field{
+  padding: 16px 0 16px 35px;
+  width: 50%;
+  border-radius: 8px;
+  background-color: #502F62;
+  border-style: none;
+  font-size: 24px;
+}
+
+.form-field-text{
+  padding: 16px 0 16px 35px;
+  width: 100%;
+  border-radius: 8px;
+  background-color: #502F62;
+  border-style: none;
+  font-size: 24px;
+}
